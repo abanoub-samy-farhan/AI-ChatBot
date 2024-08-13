@@ -1,0 +1,7 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore other unnecessary files
+*.log
+.DS_Store
+.idea/

@@ -1,0 +1,10 @@
+.btn-send {
+    background-color: #4CAF50;
+    color: white;
+    padding: 2px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 10%;
+}
