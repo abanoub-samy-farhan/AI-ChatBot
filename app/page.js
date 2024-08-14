@@ -64,12 +64,11 @@ export default function Home() {
 
   return (
     <Box gap={"10px"}>
-      <AppBar position="fixed">
+      <AppBar position="fixed" style={{ background: "black" }}>
         <Box
           height={"fit-content"}
           width={"100%"}
-          style={{ background: "linear-gradient(to right, purple, transparent)" }}
-          justifyContent={"space-between"}
+          justifyContent={"space-around"}
           display={"flex"}
           alignItems={"center"}
           p={2}
